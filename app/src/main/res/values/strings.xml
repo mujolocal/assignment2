@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="title">Puerto RIco Power Outage</string>
+    <string name="header1">Top coverage</string>
+    <string name="top_coverage">Top coverage</string>
+    <string name="txt_1">adfjskdflks this stuff is happening around the worldajf ;lsdkjf ;lakjsd fsa;dfkj a] asdkjflaksjdfhlkjasdhflkjasdhflkj</string>
+    <string name="cnn">CNN</string>
+    <string name="cbs_news">CBS news</string>
+    <string name="time">1 hour ago</string>
+    <string name="title1">Puerto Rico back in darknessafter isleand-wide blackout</string>
+</resources>
